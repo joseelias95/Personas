@@ -8,4 +8,11 @@
     <string name="Guardar">Guardar</string>
     <string name="Borrar">Borrar</string>
     <string name="Numero">Numero</string>
+    <string name="Crear">Crear Persona</string>
+    <string name="Listar">Listar Persona</string>
+    <array name="Opciones">
+        <item>@string/Crear</item>
+        <item>@string/Listar</item>
+    </array>
+    <string name="MensajeExito">Persona guardada exitosamente!</string>
 </resources>
